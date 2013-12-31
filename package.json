@@ -1,0 +1,19 @@
+{
+  "name": "sixchars",
+  "version": "13.12.31",
+  "description": "",
+  "main": "sixchars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamwicks/sixchars.git"
+  },
+  "author": "William Wicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamwicks/sixchars/issues"
+  },
+  "homepage": "https://github.com/williamwicks/sixchars"
+}
