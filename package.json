@@ -1,6 +1,6 @@
 {
   "name": "sixchars",
-  "version": "13.12.31",
+  "version": "13.12.32",
   "description": "",
   "main": "sixchars.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williamwicks/sixchars.git"
+    "url": "https://github.com/williamkapke/sixchars.git"
   },
-  "author": "William Wicks",
+  "author": "William Kapke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/williamwicks/sixchars/issues"
+    "url": "https://github.com/williamkapke/sixchars/issues"
   },
-  "homepage": "https://github.com/williamwicks/sixchars"
+  "homepage": "https://github.com/williamkapke/sixchars"
 }
